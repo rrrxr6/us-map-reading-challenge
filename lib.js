@@ -62,6 +62,8 @@ document.addEventListener('mouseover', function (e) {
         html+='</ul>';
         detailsBox.innerHTML = html;
         detailsBox.style.opacity = "100%";
+    }else {
+        detailsBox.style.opacity = "0%";
     }
   }
   else {
