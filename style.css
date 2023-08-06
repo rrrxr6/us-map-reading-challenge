@@ -1,16 +1,20 @@
 path {
-    stroke: white;
-    fill:paleturquoise !important;
+    stroke: black;
+    fill:lightgray !important;
 
     transition: fill .4s ease;
     transform-origin: center center;
 }
 
-path:hover {
+.green {
+    fill: green !important;
+}
+
+/* path:hover {
     fill: orange !important;
     cursor: pointer;
     transform: scale(1.005, 1.005);
-}
+} */
 
 /* #map-container {
     display: flex;
