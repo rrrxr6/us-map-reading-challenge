@@ -1,24 +1,13 @@
 const data = {
     "Jenny": {
-        "MO": ["Book1", "Book2"],
-        "CA": ["Book3"]
+        "MI": ["Yes, I'm Hot in This"],
+        "WY": ["Book1"],
+        "LA": ["Book2"]
     },
     "Ryan": {
-        "NY": ["Book4"],
-        "MA": ["Book5"]
-    }, 
-    "Mello": {
-        "WY": ["Book6"],
-        "HI": ["Book7"],
-        "AR": ["Book8"]
-    }, 
-    "Nugget": {
-        "KS": ["Book9"],
-        "MA": ["Book5"]
-    }, 
-    "Jasper": {
-        "MS": ["Book10"],
-        "CA": ["Book11"]
+        "NY": ["Kaiju Preservation Society"],
+        "TX": ["Redneck"],
+        "CA": ["The Good Asian"]
     }
 };
 
